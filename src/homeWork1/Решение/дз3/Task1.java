@@ -1,4 +1,4 @@
-package homeWork1.part3;
+package homeWork1.Решение.дз3;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package homeWork1.part1;
+package homeWork1.Решение.дз1;
 
 public class Task6 {
 

@@ -1,4 +1,4 @@
-package homeWork1.part4;
+package homeWork1.Решение.дз4;
 
 import java.util.Random;
 import java.util.Scanner;

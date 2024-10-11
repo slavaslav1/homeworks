@@ -1,12 +1,10 @@
-package homeWork1.part1;
+package homeWork1.Решение.дз1;
 
-public class Task2 {
+public class Task1 {
     public static void main(String[] args) {
         int outputCount = 10; // Кол-во сколько раз мы будем выводить слово в консоль
-        int interation = 0; // Кол-во итераций совершенных в цикле while
-        while (outputCount > interation) {
+        for (int i = 0; i < outputCount; i++) {
             System.out.println("JAVA");
-            interation++;
         }
     }
 }
